@@ -7,7 +7,7 @@ cask "vibecheck" do
   desc "Menu bar system monitor that tells you if your computer is vibing or cooked"
   homepage "https://github.com/saroj-shahi/vibecheck"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "VibeCheck.app"
 
