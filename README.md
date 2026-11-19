@@ -4,6 +4,7 @@ Homebrew casks for [VibeCheck](https://github.com/saroj-shahi/vibecheck), a menu
 Mac is vibing or cooked.
 
 ```bash
+brew tap saroj-shahi/tap
 brew trust --cask saroj-shahi/tap/vibecheck   # Homebrew asks you to trust taps from outside its own repos
 brew install --cask saroj-shahi/tap/vibecheck
 brew upgrade --cask vibecheck
