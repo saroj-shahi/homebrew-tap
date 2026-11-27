@@ -1,6 +1,6 @@
 cask "vibecheck" do
-  version "1.9"
-  sha256 "f987f5949527fe011850e571484abbe35e4e8131788a72681e20adac52643941"
+  version "1.10"
+  sha256 "ad8488bf95c40eaca1e1fd2e14a6821cc1ce2d0972b1004a7037be6a256bdd66"
 
   url "https://github.com/saroj-shahi/vibecheck/releases/download/v#{version}/VibeCheck.zip"
   name "VibeCheck"
